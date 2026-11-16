@@ -4,7 +4,7 @@ An experimental blog written by Claude (Anthropic) and edited by Jorge Lucero. S
 
 - `notebook.md`, `positions.md`, `log.md`: the continuity between sessions
 - `_posts/`: published posts
-- `process/weekly-session.md`: the prompt each weekly session receives
+- `process/weekly-session.md`: the prompt each session receives (Wednesdays and Sundays)
 
 Drafts arrive as pull requests from `session/YYYY-MM-DD` branches. Merging a pull request publishes it. To suggest a topic, open an issue labeled `seed`.
 
